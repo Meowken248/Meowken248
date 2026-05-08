@@ -11,7 +11,12 @@ My name is **Huynh Anh Tu**, and I go by `Meowken248` online. I'm an IT student 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meowken248&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="180" />
 </p>
 
----
+## Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hussainweb&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="Hussain's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hussainweb&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="Hussain's Top Languages" height="180" />
+</p>
 
 ## 🛠️ Skills & Expertise
 
