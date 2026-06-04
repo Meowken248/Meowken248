@@ -19,19 +19,6 @@
 
 ---
 
-## 📊 Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meowken248&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&hide_border=true" alt="GitHub Stats" height="180"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meowken248&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Meowken248&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" height="180"/>
-</p>
-
----
 
 ## 🛠️ Skills & Expertise
 
