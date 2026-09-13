@@ -1,7 +1,7 @@
 <div align="center">
 ### 👋 Hi there! I'm **Huynh Anh Tu** — `@Meowken248`
 
-🎓 IT Student &nbsp;|&nbsp; 🌐 Web Developer in progress &nbsp;|&nbsp; 🇻🇳 Ho Chi Minh City
+🎓 IT Student &nbsp;|&nbsp; 🌐 Developer in progress &nbsp;|&nbsp; 🇻🇳 Ho Chi Minh City
 
 *Passionate about building things on the web and learning new technologies every day.*
 
