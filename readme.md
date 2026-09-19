@@ -93,6 +93,3 @@
 
 ---
 
-<div align="center">
-  <p><i>Cảm ơn bạn đã ghé thăm hồ sơ của tôi! Chúc bạn một ngày tốt lành 🌟</i></p>
-</div>
