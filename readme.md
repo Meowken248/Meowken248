@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- Header Banner / Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=500&lines=Xin+ch%C3%A0o!+T%C3%B4i+l%C3%A0+Hu%E1%BB%B3nh+Anh+T%C3%BA+%F0%9F%91%8B;Web+Developer+%7C+IT+Student;Always+learning+new+technologies+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=60A5FA&center=true&vCenter=true&width=520&lines=Xin+ch%C3%A0o!+T%C3%B4i+l%C3%A0+Hu%E1%BB%B3nh+Anh+T%C3%BA+%F0%9F%91%8B;Full--Stack+Developer+%7C+Software+Engineer;Building+modern+web+applications+%F0%9F%9A%80" alt="Typing SVG" />
 
   <p align="center">
-    🎓 <b>Sinh viên Công nghệ Thông tin</b> • 📍 <b>Thành phố Hồ Chí Minh, Việt Nam</b><br>
+    💻 <b>Software Engineer / Full-Stack Developer</b> • 📍 <b>Thành phố Hồ Chí Minh, Việt Nam</b><br>
     <i>"Passionate about building things on the web and learning new technologies every day."</i>
   </p>
 
@@ -26,7 +26,9 @@
 </div>
 
 ---
+
 ### 🛠️ Kỹ năng & Công nghệ (Tech Stack)
+
 <table>
   <tr>
     <td align="left" width="22%"><b>Frontend</b></td>
@@ -73,6 +75,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ### 📊 Thống kê GitHub (GitHub Stats)
