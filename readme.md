@@ -26,16 +26,6 @@
 </div>
 
 ---
-
-### ⚡ Về tôi (About Me)
-
-- 🔭 Hiện đang tập trung phát triển các ứng dụng **Full-stack Web** và khám phá công nghệ **Web3 / DApp**.
-- 💡 Đam mê tìm tòi các kiến trúc phần mềm mới, tối ưu hiệu năng và trải nghiệm người dùng.
-- 🌱 Đang trau dồi nâng cao kiến thức về **TypeScript**, **Next.js** và hệ sinh thái **PHP / Laravel**.
-- 💬 Luôn sẵn sàng trao đổi kiến thức và học hỏi từ cộng đồng lập trình viên.
-
----
-
 ### 🛠️ Kỹ năng & Công nghệ (Tech Stack)
 
 <table>
